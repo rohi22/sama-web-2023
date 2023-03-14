@@ -9,6 +9,7 @@ use App\GalleryImages;
 use App\HomeSlider;
 use App\MobileSlider;
 use App\User;
+
 use App\Quote;
 use App\Product;
 use App\SparePart;
